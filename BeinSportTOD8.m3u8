@@ -7,3 +7,4 @@
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
 http://tv.cloudcdn.me:80/live.ts?channelId=125083&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://tv.cloudcdn.me:80/live.ts?channelId=125083&uid=15301&deviceMac=00:1A:79:1D:53:3F
