@@ -2,4 +2,4 @@
 #EXT-X-TARGETDURATION:1
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:1,
-http://exm3u.extraott.com/6JG6WQTK/1RS973F7/153133
+http://204.52.191.254:80/play/live.php?mac=00:1A:79:7A:2A:0F&stream=275753&extension=ts&play_token=Qk9mrNJH1C&sn2=
